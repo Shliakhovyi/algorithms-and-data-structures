@@ -1,0 +1,14 @@
+//{
+//  "data" : {
+//    "name" : "John"
+//  }
+//}
+
+
+{
+  "error" : [{
+    "message" : "John",
+    "type" : "MyCustomError"
+  }]
+}
+
